@@ -1,4 +1,4 @@
-# Hi, I'm Your Name
+# Hi, I'm Abdul Kadir
 
 Backend developer focused on Python, FastAPI, and Laravel.
 
@@ -7,8 +7,7 @@ Backend developer focused on Python, FastAPI, and Laravel.
 Python  
 FastAPI  
 Laravel  
-MySQL  
-JavaScript  
+MySQL    
 
 ## Projects
 
@@ -32,7 +31,7 @@ Simple Python program that generates QR codes.
 
 ## GitHub
 
-https://github.com/yourusername
+https://github.com/AbdulKadir80
 
 ## Contact
 
